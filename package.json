@@ -1,0 +1,12 @@
+{
+  "name": "SAWINEBOT",
+  "version": "0.1.0",
+  "description": "Bot Officiel de la Sawine League",
+  "main": "main.js",
+  "repository": "https://github.com/LegendaryLuck/sawinebot.git",
+  "author": "LegendaryLuck <noe.boudry@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
